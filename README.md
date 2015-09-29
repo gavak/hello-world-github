@@ -1,2 +1,3 @@
 # hello-world-github
-GitHub déscription
+My first repository !
+I love Git
